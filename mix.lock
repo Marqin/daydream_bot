@@ -1,4 +1,4 @@
-%{"blizz_ex": {:git, "https://github.com/marqin/blizz_ex.git", "51dbf59ee46f6f2f7aa8bb7c80b45f3d384913aa", []},
+%{"blizz_ex": {:git, "https://github.com/marqin/blizz_ex.git", "91feb897e2972967928756771ca5f7c72ea09d3a", []},
   "certifi": {:hex, :certifi, "0.4.0", "a7966efb868b179023618d29a407548f70c52466bf1849b9e8ebd0e34b7ea11f", [:rebar3], []},
   "chacha20": {:hex, :chacha20, "0.3.4", "9359a5effa0db0e204e8ce7711d209e2f75b2b72fbe8d2a9ad0dd4c069b124f6", [:mix], []},
   "curve25519": {:hex, :curve25519, "0.1.2", "47cece8f9402bd78fb52720978793eb5ee657f9be91effe6fe25beae812d8fdd", [:mix], []},
